@@ -21,10 +21,10 @@ Gazepoint GP3
 
 ## Software UI
 #### Main GUI
-![index](screenshots/index.PNG)
+![](/screenshots/index.png)
 
 #### Image Displaying Page
-![dashboard](screenshots/student-dash.PNG)
+![display](screenshots/display.png)
 
 #### Visualization Page
-![course](screenshots/course.PNG)
+![visualization](screenshots/vis.png)
